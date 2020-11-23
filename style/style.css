@@ -1,0 +1,11 @@
+#sell{
+	margin-left: 2%;
+	transition-duration: 0.4s;
+}
+#sell:hover {
+    background-color: #F819E6;
+    color: white;
+}
+li{
+	padding: 0.33%;
+}
